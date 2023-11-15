@@ -7,5 +7,7 @@ public class HelloController1 {
 	public String display()
 	{
 		return "viewpage1";
-	}	
+
+		
+	}
 }
